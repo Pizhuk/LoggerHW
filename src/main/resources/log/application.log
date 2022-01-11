@@ -1,0 +1,12 @@
+
+2022-01-11 22:24:38 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 3
+2022-01-11 22:25:58 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 3
+2022-01-11 22:30:37 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 3
+2022-01-11 22:30:44 INFO  [main]: Приложение успешно запущено
+2022-01-11 22:30:53 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 3
+2022-01-11 22:30:59 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 5
+2022-01-11 22:31:04 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 0
+2022-01-11 22:31:10 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 3
+2022-01-11 22:31:15 INFO  [main]: Приложение успешно запущено
+2022-01-11 22:42:58 ERROR [main]: LoggerHW$LessThanSixException: Сгенерированное число - 2
+2022-01-11 22:42:58 INFO  [main]: Приложение успешно запущено
